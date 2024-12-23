@@ -1,10 +1,4 @@
-//CPPcalculator
- #include <iostream>
-using namespace std;
 
-int main() {
-    double num1, num2;
-    char operation;
 
     cout << "Simple Calculator\n";
     cout << "Enter first number: ";
